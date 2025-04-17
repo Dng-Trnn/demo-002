@@ -63,7 +63,7 @@
                 	<div class="loginbox">
                         <div class="login-right">
 							<div class="login-right-wrap">
-								<h1>Login11</h1>
+								<h1>Login11111</h1>
 								<p class="account-subtitle">Access to our dashboard</p>
 								<p style="color:red;"><?php echo $error; ?></p>
 								<!-- Form -->
